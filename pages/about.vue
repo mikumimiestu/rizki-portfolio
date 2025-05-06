@@ -29,7 +29,7 @@
           <div class="animate-slide-left">
             <h2 class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">My Journey</h2>
             <p class="text-lg text-gray-700 dark:text-gray-300 mb-6">
-              I'm John Doe, a passionate web developer with over 5 years of experience creating modern, 
+              I'm  Rizki Ramadhanu, a passionate web developer with over 5 years of experience creating modern, 
               responsive websites and applications. My journey in web development began during my college years 
               when I started building small websites for friends and local businesses.
             </p>
