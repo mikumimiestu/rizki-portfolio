@@ -7,7 +7,7 @@
           <div class="order-2 lg:order-1 animate-slide-right">
             <div class="text-sm font-medium text-primary-600 dark:text-primary-400 mb-4">Hello, I'm</div>
             <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-gray-900 dark:text-white">
-              John Doe
+              Rizki Ramadhanu
               <span class="text-primary-600 dark:text-primary-400">Developer</span>
             </h1>
             <p class="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-8">
@@ -41,7 +41,7 @@
             <div class="relative">
               <div class="w-64 h-64 md:w-80 md:h-80 rounded-full bg-primary-600 dark:bg-primary-500 overflow-hidden">
                 <img
-                  src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                  src="/images/hero.png"
                   alt="Profile"
                   class="w-full h-full object-cover"
                 />
